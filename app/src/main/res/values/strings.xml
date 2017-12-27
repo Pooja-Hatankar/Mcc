@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Canteen97</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="already_register_signin_here">Already register? SignIn here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account_sign_up_here">Dont have an account? Sign Up here.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
